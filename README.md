@@ -6,7 +6,20 @@
 🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
 📬 Bana ulaş: abdullatif@example.com
 
-<p align="left"> <a href="https://github.com/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:abdullatifcakmak@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.instagram.com/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
+<p align="left">
+  <a href="https://github.com/abdullatifcakmak" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/abdullatifcakmak" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/abdullatifcakmak" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:abdullatifcakmak@example.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="E-posta" height="30" width="40" />
+  </a>
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/abdullatifcakmak?label=Takipçi&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/abdullatifcakmak?affiliations=OWNER&style=for-the-badge)
