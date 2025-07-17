@@ -1,5 +1,15 @@
-## Hi there 👋
+## Merhavba 👋! Ben Abdullatif ÇAKMAK
 
+🎓 Yazılım Mühendisliği öğrencisiyim  
+🛠️ Laravel, React Native, Firebase, MySQL, HTML CSS, JavaScript, Python  
+📈 Projelerimde gerçek dünya ihtiyaçlarına çözüm üretmeyi seviyorum  
+🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
+📬 Bana ulaş: abdullatif@example.com
+
+
+![GitHub followers](https://img.shields.io/github/followers/abdullatifcakmak?label=Takipçi&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/abdullatifcakmak?affiliations=OWNER&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=abdullatifcakmak&label=Ziyaretçi&color=blue&style=for-the-badge)
 <!--
 **abdullatifcakmak/abdullatifcakmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
