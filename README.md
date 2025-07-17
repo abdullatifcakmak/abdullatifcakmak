@@ -1,14 +1,14 @@
 ![GitHub Logo](Gith.png)
 
-<p align="center">
-## Merhaba 👋! Ben Abdullatif ÇAKMAK
+
+<h2 align="center"> Merhaba 👋! Ben Abdullatif ÇAKMAK </h2>
 
 🎓 Yazılım Mühendisliği öğrencisiyim  
 🛠️ Laravel, React Native, Firebase, MySQL, HTML CSS, JavaScript, Python  
 📈 Projelerimde gerçek dünya ihtiyaçlarına çözüm üretmeyi seviyorum  
 🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
 📬 Bana ulaş: alatifcakmak@gmail.com
-</p>
+
 
 <p align="center">
   <a href="https://github.com/abdullatifcakmak" target="_blank">
