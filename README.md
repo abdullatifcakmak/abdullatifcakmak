@@ -1,4 +1,4 @@
-## Merhavba 👋! Ben Abdullatif ÇAKMAK
+## Merhaba 👋! Ben Abdullatif ÇAKMAK
 
 🎓 Yazılım Mühendisliği öğrencisiyim  
 🛠️ Laravel, React Native, Firebase, MySQL, HTML CSS, JavaScript, Python  
