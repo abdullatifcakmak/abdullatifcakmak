@@ -6,8 +6,7 @@
 🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
 📬 Bana ulaş: abdullatif@example.com
 
-<div align="left"> <a href="https://www.linkedin.com/in/abdullatifcakmak/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:abdullatifcakmak@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://github.com/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
-
+<p align="left"> <a href="https://github.com/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:abdullatifcakmak@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.instagram.com/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/abdullatifcakmak?label=Takipçi&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/abdullatifcakmak?affiliations=OWNER&style=for-the-badge)
