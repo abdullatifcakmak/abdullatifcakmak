@@ -1,4 +1,4 @@
-![GitHub Logo](https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_960_720.png)
+![GitHub Logo](Gith.png)
 
 
 ## Merhaba 👋! Ben Abdullatif ÇAKMAK
