@@ -1,6 +1,6 @@
 ![GitHub Logo](Gith.png)
 
-
+<p align="center">
 ## Merhaba 👋! Ben Abdullatif ÇAKMAK
 
 🎓 Yazılım Mühendisliği öğrencisiyim  
@@ -8,8 +8,9 @@
 📈 Projelerimde gerçek dünya ihtiyaçlarına çözüm üretmeyi seviyorum  
 🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
 📬 Bana ulaş: alatifcakmak@gmail.com
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/abdullatifcakmak" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
