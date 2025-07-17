@@ -6,6 +6,8 @@
 🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
 📬 Bana ulaş: abdullatif@example.com
 
+<div align="left"> <a href="https://www.linkedin.com/in/abdullatifcakmak/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:abdullatifcakmak@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://github.com/abdullatifcakmak" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/abdullatifcakmak?label=Takipçi&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/abdullatifcakmak?affiliations=OWNER&style=for-the-badge)
@@ -23,8 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatifcakmak&layout=compact&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullatifcakmak/)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://abdullatifcakmak.github.io/)
+
 <!--
 **abdullatifcakmak/abdullatifcakmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
