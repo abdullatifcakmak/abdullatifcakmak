@@ -10,7 +10,7 @@
 📬 Bana ulaş: alatifcakmak@gmail.com
 
 
-
+<p>
   <a href="https://github.com/abdullatifcakmak" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
@@ -20,7 +20,7 @@
   <a href="https://instagram.com/abdullatifcakmakk" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/abdullatifcakmak?label=Takipçi&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/abdullatifcakmak?affiliations=OWNER&style=for-the-badge)
