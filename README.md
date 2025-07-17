@@ -4,7 +4,7 @@
 🛠️ Laravel, React Native, Firebase, MySQL, HTML CSS, JavaScript, Python  
 📈 Projelerimde gerçek dünya ihtiyaçlarına çözüm üretmeyi seviyorum  
 🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
-📬 Bana ulaş: abdullatif@example.com
+📬 Bana ulaş: alatifcakmak@gmail.com
 
 <p align="left">
   <a href="https://github.com/abdullatifcakmak" target="_blank">
@@ -15,9 +15,6 @@
   </a>
   <a href="https://instagram.com/abdullatifcakmak" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:abdullatifcakmak@example.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="E-posta" height="30" width="40" />
   </a>
 </p>
 
