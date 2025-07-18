@@ -33,9 +33,8 @@
 
 
 
-<div align="center" width="40px">
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullatifcakmak&theme=dracula)
-</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatifcakmak&layout=compact&theme=tokyonight)
 
 
