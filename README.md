@@ -34,7 +34,7 @@
 
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h3>
 
-<p align="center">
+<p align="center" style="padding: 10px">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullatifcakmak&theme=dracula" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatifcakmak&layout=compact&theme=tokyonight"  />
 </p>
