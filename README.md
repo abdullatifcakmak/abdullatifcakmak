@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullatifcakmak&theme=dracula" width="55%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatifcakmak&layout=compact&theme=tokyonight"  width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatifcakmak&layout=compact&theme=tokyonight"  width="33%"/>
 </p>
 
 
