@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Gith.png" alt="GitHub Logo" height="630px" />
-</p>
+![GitHub Logo](Gith.png)
 
 
 <h2 align="center"> Merhaba 👋! Ben Abdullatif ÇAKMAK </h2>
