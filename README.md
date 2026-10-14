@@ -1,62 +1,46 @@
-![GitHub Logo](Gith.png)
+<a href="https://alcsoftware.com.tr">
+  <img src="alc-software.png" alt="ALC Software: Kurumların günlük işini yürüten masaüstü, mobil ve web yazılımları" width="100%" />
+</a>
 
+### Merhaba, ben Abdullatif.
 
-<h2 align="center"> Merhaba 👋! Ben Abdullatif ÇAKMAK </h2>
+Gümüşhane Üniversitesi Yazılım Mühendisliği mezunuyum. **ALC Software** adıyla kurumlara masaüstü, mobil ve web yazılımlarını sunucusuyla birlikte baştan sona geliştiriyorum.
 
-🎓 Yazılım Mühendisliği öğrencisiyim  
-🛠️ Laravel, React Native, Firebase, MySQL, HTML CSS, JavaScript, Python  
-📈 Projelerimde gerçek dünya ihtiyaçlarına çözüm üretmeyi seviyorum  
-🌱 Şu anda `stok ve cari hesap takip sistemi` geliştiriyorum  
-📬 Bana ulaş: alatifcakmak@gmail.com
+Önce işi anlıyorum, kararları yazıya döküyorum ve her aşamanın sonunda denenebilir bir sürüm teslim ediyorum.
 
+### Öne çıkan işler
+
+| Proje | Ne yapıyor | Teknolojiler |
+| --- | --- | --- |
+| **[Paket Bilgisi](https://paketbilgisi.com)** <br/> <sub>🏆 ProjeVadi Proje Pazarı, 76 proje arasında birinci</sub> | Paketli gıdaların kalorisini, içeriğini ve katkı maddelerini tek aramada gösteren, daha hafif alternatifi öneren web platformu | Laravel, PHP, JavaScript |
+| **BAM Akademi** | Bir dershane için canlı ders, ödev, mesajlaşma ve yönetimi tek çatıda toplayan platform (Windows, Android, web) | Flutter, NestJS, PostgreSQL, LiveKit |
+| **Cari Takip** <br/> <sub>Geliştiriliyor</sub> | Esnaf için barkodlu kasa, stok, veresiye ve cari hesap takibi | Laravel, MySQL, Tailwind CSS |
+| **[TaksiBurada](https://github.com/abdullatifcakmak/TaksiBurada)** | Haritadan konum seçip taksi çağırma, taksi listesi ve profil yönetimi (ekip projesi) | React Native, Expo, Firebase |
+
+Bütün işler: **[alcsoftware.com.tr/projeler](https://alcsoftware.com.tr/projeler)**
+
+### Kullandığım araçlar
 
 <p>
-  <a href="https://github.com/abdullatifcakmak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/abdullatifcakmak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/abdullatifcakmakk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" title="NestJS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" title="React Native" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/abdullatifcakmak?label=Takipçi&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/abdullatifcakmak?affiliations=OWNER&style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=abdullatifcakmak&label=Ziyaretçi&color=blue&style=for-the-badge)
+### İletişim
 
-<h3 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h3>
+Aklında bir proje varsa yaz, en geç bir iş günü içinde dönerim.
 
-<table> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laravel"/> <br/><sub><b>Laravel</b></sub> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/> <br/><sub><b>PHP</b></sub> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/> <br/><sub><b>JavaScript</b></sub> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/> <br/><sub><b>MySQL</b></sub> </td> </tr> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/> <br/><sub><b>Git</b></sub> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/> <br/><sub><b>HTML5</b></sub> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/> <br/><sub><b>CSS3</b></sub> </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/> <br/><sub><b>GitHub</b></sub> </td> </tr> </table>
-
-
-
-<h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullatifcakmak&theme=dracula" width="55%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullatifcakmak&layout=compact&theme=tokyonight&cache_seconds=1"  width="33%"/>
-</p>
-
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-<!--
-**abdullatifcakmak/abdullatifcakmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Web sitesi](https://img.shields.io/badge/alcsoftware.com.tr-0d2b2f?style=for-the-badge&labelColor=0d2b2f)](https://alcsoftware.com.tr)
+[![E-posta](https://img.shields.io/badge/alatifcakmak%40gmail.com-0d2b2f?style=for-the-badge&labelColor=0d2b2f)](mailto:alatifcakmak@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d2b2f?style=for-the-badge&labelColor=0d2b2f)](https://linkedin.com/in/abdullatifcakmak)
+[![Instagram](https://img.shields.io/badge/Instagram-0d2b2f?style=for-the-badge&labelColor=0d2b2f)](https://instagram.com/abdullatifcakmakk)
