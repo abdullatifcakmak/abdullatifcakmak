@@ -12,7 +12,7 @@ Gümüşhane Üniversitesi Yazılım Mühendisliği mezunuyum. **ALC Software** 
 
 | Proje | Ne yapıyor | Teknolojiler |
 | --- | --- | --- |
-| **[Paket Bilgisi](https://paketbilgisi.com)** <br/> <sub>🏆 ProjeVadi Proje Pazarı, 76 proje arasında birinci</sub> | Paketli gıdaların kalorisini, içeriğini ve katkı maddelerini tek aramada gösteren, daha hafif alternatifi öneren web platformu | Laravel, PHP, JavaScript |
+| **[Paket Bilgisi](https://paketbilgisi.com)** <br/> <sub>🏆 ProjeVadi Proje Pazarı, 76 proje arasında birinci</sub> | Paketli gıdaların kalorisini, içeriğini ve katkı maddelerini tek aramada gösteren, daha hafif alternatifi öneren web platformu (ekip projesi) | Laravel, PHP, JavaScript |
 | **BAM Akademi** | Bir dershane için canlı ders, ödev, mesajlaşma ve yönetimi tek çatıda toplayan platform (Windows, Android, web) | Flutter, NestJS, PostgreSQL, LiveKit |
 | **Cari Takip** <br/> <sub>Geliştiriliyor</sub> | Esnaf için barkodlu kasa, stok, veresiye ve cari hesap takibi | Laravel, MySQL, Tailwind CSS |
 | **[TaksiBurada](https://github.com/abdullatifcakmak/TaksiBurada)** | Haritadan konum seçip taksi çağırma, taksi listesi ve profil yönetimi (ekip projesi) | React Native, Expo, Firebase |
